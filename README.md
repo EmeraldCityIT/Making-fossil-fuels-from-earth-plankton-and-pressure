@@ -1,5 +1,6 @@
 # Making-fossil-fuels-from-earth-plankton-and-pressure
 Use of methods similar to diamond creation for making fossile fuel. 
+Use of sustained pressure and heat reacts organic material carbon rich earth to create fossil fuel.
 
 Test various organic materials.
 Tust various types of earth minerals.
